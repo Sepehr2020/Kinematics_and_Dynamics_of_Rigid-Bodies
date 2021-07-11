@@ -1,1 +1,1 @@
-This repository includes a project done for “Kinematics and Dynamics of Rigid Bodies and Mechanisms” course at Simon Fraser University.
+Course Description: Planar and 3D motions kinematics and kinetics of rigid bodies and mechanisms; linkages, gears, cams; synthesis and analysis of mechanisms; consideration of the static and dynamic forces in machines; vibration analysis, response to shock, motion and force transmissibility, vibration isolation. 
